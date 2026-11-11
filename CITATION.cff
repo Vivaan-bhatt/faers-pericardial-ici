@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Analysis code for: Reporting of Pericardial Adverse Events with Immune Checkpoint Inhibitors: A Disproportionality Analysis of the FDA Adverse Event Reporting System"
+version: 1.0.1
+license: MIT
+repository-code: "https://github.com/Vivaan-bhatt/faers-pericardial-ici"
+keywords:
+  - pharmacovigilance
+  - FAERS
+  - immune checkpoint inhibitors
+  - pericardial disease
+  - disproportionality analysis
+  - cardio-oncology
+authors:
+  - family-names: Balakrishna
+    given-names: Keshav
+    affiliation: "University of Texas at Dallas, Richardson, TX, USA"
+  - family-names: Bhatt
+    given-names: Vivaan
+    affiliation: "Harvard University, Cambridge, MA, USA"
+  - family-names: Hammond
+    given-names: Alessandro
+    affiliation: "Harvard University, Cambridge, MA, USA"
+  - family-names: Bawoke
+    given-names: Melat Mezgebu
+    affiliation: "Addis Ababa University College of Health Sciences, Addis Ababa, Ethiopia"
+  - family-names: Fradley
+    given-names: Michael G.
+    affiliation: "Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+  - family-names: Zlotoff
+    given-names: Daniel A.
+    affiliation: "Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA"
+  - family-names: Neilan
+    given-names: Tomas G.
+    affiliation: "Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA"
+preferred-citation:
+  type: article
+  title: "Reporting of Pericardial Adverse Events with Immune Checkpoint Inhibitors: A Disproportionality Analysis of the FDA Adverse Event Reporting System"
+  journal: "medRxiv"
+  year: 2026
+  doi: "10.64898/2026.10.19.26365946"
+  authors:
+    - family-names: Balakrishna
+      given-names: Keshav
+    - family-names: Bhatt
+      given-names: Vivaan
+    - family-names: Hammond
+      given-names: Alessandro
+    - family-names: Bawoke
+      given-names: Melat Mezgebu
+    - family-names: Fradley
+      given-names: Michael G.
+    - family-names: Zlotoff
+      given-names: Daniel A.
+    - family-names: Neilan
+      given-names: Tomas G.
